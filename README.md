@@ -75,6 +75,8 @@ Searching the Java documentation made easy !](http://www.allimant.org/javadoc/):
 
 **用法**
 
-
+- 第一步:使用爬虫或工具[Teleport Ultra](http://www.pc6.com/softview/SoftView_25196.html#downloadTeleport Ultra)下载[mockito api page](http://site.mockito.org/mockito/docs/current/index.html?overview-summary.html)或[spring-rich api page](http://spring-rich-c.sourceforge.net/1.1.0/apidocs/)地址,下载后的文件为`.html`
+- 第二步:使用`javadoc2chm`工具,生成`.chm`文件
+- 第三步:Enjoying! :simle:
 
 
